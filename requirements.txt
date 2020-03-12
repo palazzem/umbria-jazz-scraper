@@ -1,5 +1,5 @@
 Scrapy==0.24.2
-Twisted==14.0.0
+Twisted==19.7.0
 bleach==1.4
 cffi==0.8.6
 cryptography==0.5.2
