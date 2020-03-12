@@ -6,7 +6,7 @@ cryptography==0.5.2
 cssselect==0.9.1
 html5lib==0.999
 lxml==3.3.5
-pyOpenSSL==0.14
+pyOpenSSL==17.5.0
 pycparser==2.10
 queuelib==1.1.1
 six==1.7.3
